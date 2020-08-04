@@ -2,4 +2,4 @@
 
 A command line node application that generates an HTML file from user input.
 
-Deployed with GitHub pages: [nicchappell.github.io/command-line-html-generator/](https://nicchappell.github.io/jquery-calculator/)
+Deployed with GitHub pages: [nicchappell.github.io/command-line-html-generator/](https://nicchappell.github.io/command-line-html-generator/)
